@@ -29,8 +29,8 @@ To create an **abstract class** named `Shape` with an **abstract method** `calcu
 ---
 
 ## 💻 Program
-developed by :SALINI A
-REGISTER NO:212223220091
+Developed by :SALINI A
+REG NO:212223220091
 ```
 from abc import ABC
 class Shape(ABC):
